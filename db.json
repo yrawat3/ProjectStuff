@@ -1,0 +1,52 @@
+{
+  "posts": [
+    {
+      "userId": 1,
+      "id": 1,
+      "title": "Kendeda Krunch",
+      "body": "Free subways!!!"
+    },
+    {
+      "userId": 2,
+      "id": 2,
+      "title": "Culc Crabs",
+      "body": "Free Crabs!!!"
+    },
+    {
+      "id": 3,
+      "title": "idk",
+      "body": "wow",
+      "date": "2022-11-28",
+      "reactions": {
+        "thumbsUp": 1,
+        "wow": 0,
+        "heart": 0,
+        "rocket": 0,
+        "coffee": 0
+      }
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "Student",
+      "username": "Antonette",
+      "email": "blah blah blah"
+    },
+    {
+      "id": 2,
+      "name": "Host",
+      "username": "Samantha",
+      "email": "yerr"
+    },
+    {
+      "id": 3,
+      "name": "Admin",
+      "username": "Samantha",
+      "email": "yerr"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
